@@ -1,0 +1,17 @@
+{
+  "name": "eye-n-lens-growth-researcher",
+  "version": "1.0.0",
+  "description": "Current-trend research, competitor intelligence, content scoring and social-media strategy skill for EYE N LENS.",
+  "entrypoint": "SKILL.md",
+  "commands": {
+    "daily": "Run EYE N LENS Growth Research",
+    "weekly": "Run EYE N LENS Weekly Review"
+  },
+  "primary_products": [
+    "Essilor lenses",
+    "2.5 NVG lenses",
+    "frames",
+    "sunglasses",
+    "other prescription/specialty lenses"
+  ]
+}
